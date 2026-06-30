@@ -1,0 +1,8 @@
+{
+  "short_sha": "d1fec6b",
+  "subject": "update work pipeline config",
+  "author": "EigenAI-Admin",
+  "utc_date": "2026-06-30",
+  "new_key": "secure",
+  "handler_url_pattern": "/workers/([^/]+)/t/(?P<id>\d+)/"
+}
